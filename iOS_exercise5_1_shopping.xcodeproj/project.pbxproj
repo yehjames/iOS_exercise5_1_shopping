@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		13993086208C7F6B0047B499 /* exercise5_1_shopping.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = exercise5_1_shopping.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13993086208C7F6B0047B499 /* iOS_exercise5_1_shopping.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_exercise5_1_shopping.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13993089208C7F6B0047B499 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1399308A208C7F6B0047B499 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		1399308C208C7F6B0047B499 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		13993087208C7F6B0047B499 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13993086208C7F6B0047B499 /* exercise5_1_shopping.app */,
+				13993086208C7F6B0047B499 /* iOS_exercise5_1_shopping.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -74,9 +74,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		13993085208C7F6B0047B499 /* exercise5_1_shopping */ = {
+		13993085208C7F6B0047B499 /* iOS_exercise5_1_shopping */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1399309C208C7F6D0047B499 /* Build configuration list for PBXNativeTarget "exercise5_1_shopping" */;
+			buildConfigurationList = 1399309C208C7F6D0047B499 /* Build configuration list for PBXNativeTarget "iOS_exercise5_1_shopping" */;
 			buildPhases = (
 				13993082208C7F6B0047B499 /* Sources */,
 				13993083208C7F6B0047B499 /* Frameworks */,
@@ -86,9 +86,9 @@
 			);
 			dependencies = (
 			);
-			name = exercise5_1_shopping;
+			name = iOS_exercise5_1_shopping;
 			productName = exercise5_1_shopping;
-			productReference = 13993086208C7F6B0047B499 /* exercise5_1_shopping.app */;
+			productReference = 13993086208C7F6B0047B499 /* iOS_exercise5_1_shopping.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 13993081208C7F6B0047B499 /* Build configuration list for PBXProject "exercise5_1_shopping" */;
+			buildConfigurationList = 13993081208C7F6B0047B499 /* Build configuration list for PBXProject "iOS_exercise5_1_shopping" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13993085208C7F6B0047B499 /* exercise5_1_shopping */,
+				13993085208C7F6B0047B499 /* iOS_exercise5_1_shopping */,
 			);
 		};
 /* End PBXProject section */
@@ -314,7 +314,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		13993081208C7F6B0047B499 /* Build configuration list for PBXProject "exercise5_1_shopping" */ = {
+		13993081208C7F6B0047B499 /* Build configuration list for PBXProject "iOS_exercise5_1_shopping" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1399309A208C7F6D0047B499 /* Debug */,
@@ -323,7 +323,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1399309C208C7F6D0047B499 /* Build configuration list for PBXNativeTarget "exercise5_1_shopping" */ = {
+		1399309C208C7F6D0047B499 /* Build configuration list for PBXNativeTarget "iOS_exercise5_1_shopping" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1399309D208C7F6D0047B499 /* Debug */,

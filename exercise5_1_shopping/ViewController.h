@@ -8,8 +8,16 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface ViewController : UIViewController{
+    __weak IBOutlet UILabel *shoeCount;
+    __weak IBOutlet UILabel *clothes1Count;
+    __weak IBOutlet UILabel *hatCount;
+    __weak IBOutlet UILabel *clothes2Count;
+    __weak IBOutlet UIStepper *shoeStepper;
+    __weak IBOutlet UIStepper *clothes1Stepper;
+    __weak IBOutlet UIStepper *hatStepper;
+    __weak IBOutlet UIStepper *clothes2Stepper;
+    __weak IBOutlet UILabel *result;
+}
 @end
 
